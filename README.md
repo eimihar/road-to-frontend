@@ -5,6 +5,7 @@ So, introducing frontend from super basic.
 
 ## Chapter 0 : HTML, CSS, Javascript, git
 - what are they
+  - html, css, javascript?
 - the state of cross-platform app development
   - phone-gap, cordova, electron, ionic, react-native
   - history of node.js (optional?)
