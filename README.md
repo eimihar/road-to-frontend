@@ -3,11 +3,15 @@ My attempt at crash coursing this probably common journey at understanding moder
 
 So, introducing frontend from super basic.
 
-## Chapter 0 : HTML, CSS, Javascript
+## Chapter 0 : HTML, CSS, Javascript, git
 - what are they
 - the state of cross-platform app development
-  - history of node.js
   - phone-gap, cordova, electron, ionic, react-native
+  - history of node.js (optional?)
+- git crash course
+  - the why
+  - remote, add, commit, push, pull
+  - github, bitbucket
 ## Chapter 1 : ES6
 - script types
 - modules, import, export
