@@ -17,15 +17,21 @@ So, introducing frontend from super basic.
 - modules, import, export
 - let, const, scope
 ## Chapter 2 : NPM
+- init
+- install
 - package.json
-- package install
-- package scripts
+  - main
+  - scripts
+  - dependencies & dev dependencies
+    - --save-dev
+- node_modules
 - ngx
-## Build tools
-- huh?
-## Chapter 3 : Webpack
+## Chapter 3 : Build
+- why do you need a a build
+- dev/production build
+## Chapter 4 : Webpack
 - config
 - building up your modules
 - webpack config/structures
-## Chapter 4 : Modern Project Structure
+## Chapter 5 : Modern Project Structure
 for framework like vue, angular, react, svelte
