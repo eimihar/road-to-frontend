@@ -1,5 +1,5 @@
 # road-to-frontend
-My attempt at crash coursing this probably common journey at understanding modern frontend development. Mind you that i've been doing web/system related development for almost 8 years, but it feels like I barely scratched many of them. I've heard and used many of these tools, but my fundemantal for frontend is still like super behind. For eg. I never really used build tools before, or built a frontend app from scratch before. These are from my understanding, so please don't mind me, but help me.
+My attempt at crash coursing this probably common journey at understanding modern frontend development. Mind you that i've been doing web/system related development for almost 8 years, but it feels like I barely scratched many of them. I've heard and used some of these tools, but my fundemantal for frontend is still like super behind. For eg. I never really used build tools before, or built a frontend app from scratch before. These are from my understanding, so please don't mind me, but help me.
 
 So, introducing frontend from super basic.
 
@@ -9,8 +9,9 @@ So, introducing frontend from super basic.
   - history of node.js
   - phone-gap, cordova, electron, ionic, react-native
 ## Chapter 1 : ES6
-- import export
 - script types
+- modules, import, export
+- let, const, scope
 ## Chapter 2 : NPM
 - package.json
 - package install
